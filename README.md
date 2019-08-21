@@ -1,10 +1,4 @@
 # vue-customers
-<<<<<<< HEAD
-用户管理系统
-=======
-<<<<<<< HEAD
-用户管理系统
-=======
 
 ### 使用：
 
@@ -31,7 +25,7 @@ vue+vue-cli3+vue-resource（可以自行更更换axios）+vue-router（路由模
 https://github.com/Lijianxiong8/vue-customer-json-server
 
 ### 项目截图（gif格式）：
-
+![image](https://github.com/Lijianxiong8/vue-customers/blob/master/GIF-imgae/project.gif)
 
 
   
@@ -63,5 +57,3 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> first commit
->>>>>>> first commit
